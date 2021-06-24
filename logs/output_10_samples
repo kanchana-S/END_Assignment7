@@ -1,0 +1,29 @@
+sentence:  A yawn-provoking little farm melodrama .
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  It 's likely that whatever you thought of the first production -- pro or con -- you 'll likely think of this one .
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  The threat implied in the title PokÃ©mon 4ever is terrifying -- like locusts in a horde these things will keep coming .
+actual_label:  Negative 		predicted_label:  Very Negative
+
+sentence:  "After the setup , the air leaks out of the movie , flattening its momentum with about an hour to go ."
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  "Even by dumb action-movie standards , Ballistic : Ecks vs. Sever is a dumb action movie ."
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  "Had anyone here done anything remotely intelligent , we all could have stopped watching long ago ."
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  What 's really sad is to see two Academy Award winning actresses -LRB- and one Academy Award winning actor -RRB- succumb to appearing in this junk that 's TV sitcom material at best .
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  "Human Nature is a goofball movie , in the way that Malkovich was , but it tries too hard ."
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  Some actors steal scenes .
+actual_label:  Neutral 		predicted_label:  Very Negative
+
+sentence:  "All the characters are stereotypes , and their interaction is numbingly predictable ."
+actual_label:  Negative 		predicted_label:  Very Negative
